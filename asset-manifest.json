@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/nulinz.com/fobus.in/static/css/main.ab8773bc.css",
+    "main.js": "/nulinz.com/fobus.in/static/js/main.94cd7aaa.js",
+    "static/media/diet.png": "/nulinz.com/fobus.in/static/media/diet.2a896ccab63b489bd086.png",
+    "static/media/health.png": "/nulinz.com/fobus.in/static/media/health.b02cda9bc85490d71e66.png",
+    "static/media/diet1.png": "/nulinz.com/fobus.in/static/media/diet1.dd4fa396f80001077dd4.png",
+    "static/media/nutrition.png": "/nulinz.com/fobus.in/static/media/nutrition.7b48faf3737cec24bc93.png",
+    "static/media/img1.png": "/nulinz.com/fobus.in/static/media/img1.4f2aa5f939d7bc7c9536.png",
+    "static/media/diet3.png": "/nulinz.com/fobus.in/static/media/diet3.a2855892d3c63ee5c450.png",
+    "static/media/diet2.png": "/nulinz.com/fobus.in/static/media/diet2.898b3d7ea172806c3b40.png",
+    "static/media/menu1.png": "/nulinz.com/fobus.in/static/media/menu1.d70e9ebbbeacd43bb2cf.png",
+    "static/media/home2.png": "/nulinz.com/fobus.in/static/media/home2.1e68b3ab95107d83f180.png",
+    "static/media/menu2.png": "/nulinz.com/fobus.in/static/media/menu2.18cfb04f93b25ba34eef.png",
+    "static/media/home6.png": "/nulinz.com/fobus.in/static/media/home6.3b1cfcec04bf1082f716.png",
+    "static/media/menu3.png": "/nulinz.com/fobus.in/static/media/menu3.3c95fe2ba191fbe3874d.png",
+    "static/media/home3.png": "/nulinz.com/fobus.in/static/media/home3.9b9263dfb906ccef7d08.png",
+    "static/media/home1.png": "/nulinz.com/fobus.in/static/media/home1.1e65777b491c2ca2df5a.png",
+    "static/media/home7.png": "/nulinz.com/fobus.in/static/media/home7.4f465acd7f4cb0c24022.png",
+    "static/media/home8.png": "/nulinz.com/fobus.in/static/media/home8.d6e3c29a4340d24f97d9.png",
+    "static/media/home4.png": "/nulinz.com/fobus.in/static/media/home4.1f581c182529fab324c9.png",
+    "static/media/home5.png": "/nulinz.com/fobus.in/static/media/home5.77d5d10562acf7d02cb1.png",
+    "static/media/slick.svg": "/nulinz.com/fobus.in/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/nulinz.com/fobus.in/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/nulinz.com/fobus.in/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/nulinz.com/fobus.in/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/nulinz.com/fobus.in/index.html",
+    "main.ab8773bc.css.map": "/nulinz.com/fobus.in/static/css/main.ab8773bc.css.map",
+    "main.94cd7aaa.js.map": "/nulinz.com/fobus.in/static/js/main.94cd7aaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab8773bc.css",
+    "static/js/main.94cd7aaa.js"
+  ]
+}
